@@ -16,7 +16,7 @@ fun main() {
      * Dan isi argumen-argumen / data dari parameter sesuai data diri Anda (Name, Age, Height)
      *
      */
-    hero.setProfile("Rafie", 23, 175)
+    hero.setProfile("Mahbubi", 20, 170)
 
 
     /**

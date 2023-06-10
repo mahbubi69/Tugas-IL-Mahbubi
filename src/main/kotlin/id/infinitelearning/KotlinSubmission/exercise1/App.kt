@@ -10,9 +10,9 @@ Lengkapi fungsi myProfile di bawah ini dengan membuat variabel dengan ketentuan 
 - Dan cetak setiap variabel ke layar saat fungsi myProfile() di panggil
  */
 fun myProfile() {
-    val firstName = "Rafie"
-    val lastName = "Mukhti"
-    val umur = 23
+    val firstName = "Muhammad"
+    val lastName = "Mahbubi"
+    val umur = 22
     val single = true
 
     println(
